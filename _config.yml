@@ -1,9 +1,9 @@
 ### Site Settings ###
-title: Nilavan Akilan
+title: Ajay Srivastava
 description: >-
   Data Scientist | Machine Learning Engineer
 baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository: Nilavan/Nilavan.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository: codemec/codemec.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
 ### Plugins ###
 #plugins:
@@ -19,12 +19,12 @@ nav_exclude: # The following paths are excluded from navbar
 
 ### Author Info ###
 author:
-  name: Nilavan Akilan
+  name: Ajay Srivastava
   image: assets/img/linkedin_profile_2.jpg
-  email: nilavanakilan2001@gmail.com
-  linkedin: nilavan-akilan
-  github: Nilavan
-  kaggle: nilavanakilan
+  email: ajay8898sri@gmail.com
+  linkedin: ajaysrivastava-2108
+  github: ajaydevelopr
+#  kaggle: nilavanakilan
 
 ### Posts ###
 permalink: /blog/:title
