@@ -1,9 +1,9 @@
 ### Site Settings ###
 title: Ajay Srivastava
 description: >-
-  Data Scientist | Machine Learning Engineer
+  Post-Market Surveillance Analyst | Electronics Engineer
 baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository: codemec/codemec.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository: ajaydevelopr/ajaydevelopr.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
 ### Plugins ###
 #plugins:
