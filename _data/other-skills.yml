@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: MDR (Medical Device Regulations)
+  percentage: 100
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: PMS (Post-Market Surveillance)
+  percentage: 70
   color: success
+
+- name: Regulatory Compliance
+  percentage: 100
+  color: 
+
+- name: CAPA
+  percentage: 100
+  color: success
+  
+- name: Biomedical Applications
+  percentage: 100
+  color: 
