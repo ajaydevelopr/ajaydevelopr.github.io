@@ -1,19 +1,19 @@
-- name: Python
-  percentage: 90
+- name: SQL
+  percentage: 100
   color: danger
 
-- name: C
-  percentage: 90
+- name: Web Development
+  percentage: 100
   color:
 
-- name: C++
-  percentage: 90
+- name: Python
+  percentage: 70
   color: success
 
 - name: Java
   percentage: 70
   color: info
 
-- name: HTML5/CSS3
+- name: SSG
   percentage: 80
   color: secondary
