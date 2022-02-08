@@ -12,6 +12,9 @@ repository: ajaydevelopr/ajaydevelopr.github.io # Change to <your-username>/<you
 ### Navbar Settings ###
 nav_exclude: # The following paths are excluded from navbar
   - pages/404.html
+  - pages/tags.html
+  - pages/index.md
+  - pages/thanks.html
 
 ### Author Info ###
 author:
@@ -30,6 +33,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  elements:
+    output: true
 
 ### Disqus ###
 disqus:
@@ -48,6 +53,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "elements"
+    values:
+      layout: "element"
   - scope:
       path: ""
       type: "posts"
