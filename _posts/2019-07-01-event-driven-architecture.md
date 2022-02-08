@@ -3,6 +3,7 @@ title: Event Driven Architecture
 tags: [Architecture, Pattern]
 style: fill
 color: info
+description: An event-driven architecture uses events to trigger and communicate between decoupled services and is common in modern applications built with microservices
 ---
 
 ## Introduction

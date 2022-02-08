@@ -3,7 +3,9 @@ title: Git Branching strategies
 tags: [CI/CD, Git, Merge]
 style: fill
 color: info
+description: 
 ---
+Author: [Ajay Srivastava](https://ajaydevelopr.github.io/)
 
 ## Git Workflows
 
