@@ -12,8 +12,6 @@ repository: ajaydevelopr/ajaydevelopr.github.io # Change to <your-username>/<you
 ### Navbar Settings ###
 nav_exclude: # The following paths are excluded from navbar
   - pages/404.html
-#  - pages/index.md
-  - pages/thanks.html
 
 ### Author Info ###
 author:
