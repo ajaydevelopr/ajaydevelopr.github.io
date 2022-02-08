@@ -29,9 +29,7 @@ The other non-permanent branches are
 2. Release branches - Once a set of features & their associated bug fixes have been implemented and merged into the develop branch a release branch is created. The branch is assigned a name composed of the release prefix, followed by the numeric form of choice for your release. One of the standards for the numeric form is semver. The release branch is then subjected to integration and regression testing. Any bugs identified during this phase is fixed and committed directly to the release branch. Once the release branch has been confirmed to be free of bugs, it is merged into the master branch and released into production. These fixes are also merged back into dev and other release branches if any.
 3. Hotfix/Patch branches - Hotfixes are production issues that need an immediate fix before a planned release. The development team creates a hotfix branch from master and applies the appropriate fixes.
 
-![](https://i.ibb.co/ZS1VkQ6/gitflow-1024x843.png)
-
-Gitflow Workflow
+{% include elements/figure.html image="https://github.com/ajaydevelopr/Blog-Pictures/blob/main/blog_pics/gitflow-1024x843.png?raw=true" caption="Gitflow Workflow" %}
 
 This workflow initially starts with a single develop branch. Developers create feature branches for each feature or a group of features that they work on. A feature can also be a bug fix or a refactor. The name of the feature branch indicates the feature being worked on. The feature branches are merged with the develop branch. Once a critical mass or a set of related features are built and merged, a new release branch is created. The team can then continue to work on further features while the release is tested and defects logged. The defects are fixed on the release branch and merged back into the develop branch. The new features created post the release branch creation are also committed to the develop branch.
 
@@ -52,9 +50,8 @@ Once the team has confirmed that the quality of the release is good, a new maste
 
 Github flow was first described by Scott Chacon on his blog [here](http://scottchacon.com/2011/08/31/github-flow.html). This workflow is optimized for frequent releases in a continuous delivery model. In Github flow there is only one permanent branch called master. To work on a new feature a developer creates a feature branch from master and commits their work to this feature branch. The feature branch is pushed to the remote and is kept upto date regularly. When the feature development is complete the developer issues a pull request to the master branch. If the pull request is accepted then the feature is ready to be deployed from the feature branch. If the feature branch is deployed and there are no issues then the changes are merged to master. However if there are issues then master is immediately redeployed since it is is always in a proven working state. This workflow is a variation of the Branch-Per-Feature deployment strategy.
 
-![](https://i.ibb.co/WxTZ1D1/github-flow-1024x743.png)
+{% include elements/figure.html image="https://github.com/ajaydevelopr/Blog-Pictures/blob/main/blog_pics/github-flow-1024x743.png?raw=true" caption="Github flow" %}
 
-Github flow
 
 ### Pros
 
@@ -72,8 +69,6 @@ Gitlab flow introduces the concept of a location or snapshot for some of the bra
 
 Gitlab flow uses branch naming conventions to specify which branch is deployed to which environment and most importantly the conditions that need to be met before a branch is deployed to a specific environment. This workflow strategy is a variation of a state branching strategy
 
-![](https://i.ibb.co/MZJqyrv/gitlab-flow-1-1024x454.png)
-
-Gitlab flow
+{% include elements/figure.html image="https://github.com/ajaydevelopr/Blog-Pictures/blob/main/blog_pics/gitlab-flow-1-1024x454.png?raw=true" caption="Gitlab flow" %}
 
 > Photo by [Fabrice Villard](https://unsplash.com/@fabulu75?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tree?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
