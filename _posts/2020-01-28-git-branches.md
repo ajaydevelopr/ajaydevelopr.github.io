@@ -1,7 +1,7 @@
 ---
 title: Git Branching strategies
 tags: [CI/CD, Git, Merge]
-style: fill
+style: border
 color: info
 description: 
 ---
