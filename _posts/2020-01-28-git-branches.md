@@ -1,10 +1,11 @@
 ---
 title: Git Branching strategies
 tags: [CI/CD, Git, Merge]
-style: border
+style: fill
 color: info
-description: 
+description: A “branching strategy” refers to the strategy a software development team employs when writing, merging, and shipping code in the context of a version control system like Git. Software developers working as a team on the same codebase must share their changes with each other.
 ---
+
 Author: [Ajay Srivastava](https://ajaydevelopr.github.io/)
 
 ## Git Workflows
