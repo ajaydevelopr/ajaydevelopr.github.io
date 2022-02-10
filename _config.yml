@@ -14,7 +14,6 @@ nav_exclude: # The following paths are excluded from navbar
   - pages/404.html
   - pages/tags.html
   - pages/index.md
-  - pages/thanks.html
 
 ### Author Info ###
 author:
@@ -66,3 +65,5 @@ defaults:
 
 ### Exclude from processing ###
 exclude:
+
+##  - pages/thanks.html ##
