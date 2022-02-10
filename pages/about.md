@@ -23,7 +23,7 @@ Machine learning • Data Science • Data Vizualization • Graph Analytics •
 Thankfully, I'm not a cat!
 
 When I'm not working on something ML or data science, you can find me working on building various projects based on PHP! I also love **playing** football, _watching_ Formula 1 and singing and I'm always up for a game of Mario Kart :)
-
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 <!--
 {% capture carousel_images %}
 ../assets/img/profile.jpg
