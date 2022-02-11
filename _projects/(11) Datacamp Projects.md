@@ -2,9 +2,9 @@
 name: Datacamp Projects
 tools: [Python, R, SQL, featured]
 image: https://cdn.datacamp.com/main-app/assets/brand/logos/DataCamp_Horizontal_RGB-d196011f63ebda76dc5c9772425cf9541b8639af842d5e5476ef10f2460ed1e4.png
-description: POS Management and Inventory System Project in PHP MySQL enables you to manage inventory, sales, purchases, customers, invoices, receiving payments, and more. It will also allow you to make purchases and sales from anywhere, anytime. Whether you run a small business or a large company It’s the solution you need to manage inventory, purchases and sales – all in one app.
+description: List of Datacamp Projects Performed by me.
 ---
-# [DataCamp Projects](https://github.com/ajaydevelopr/Datacamp-Projects)
+## [DataCamp Projects](https://github.com/ajaydevelopr/Datacamp-Projects)
 
 <p align="center"> 
 <img src="https://cdn.datacamp.com/main-app/assets/brand/logos/DataCamp_Horizontal_RGB-d196011f63ebda76dc5c9772425cf9541b8639af842d5e5476ef10f2460ed1e4.png" width="500">
@@ -12,9 +12,9 @@ description: POS Management and Inventory System Project in PHP MySQL enables yo
 
 My notebooks in [Datacamp](https://www.datacamp.com/profile/ajaysrivastava-19d5fa11-80c2-4d77-9bd3-7ae2069fb312) projects.
 
-## Python
+### Python
 | Project | Description |
-| --- | --- |
+| ------- | ----------- |
 | `A Network analysis of Game of Thrones` | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
 | `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
@@ -54,15 +54,15 @@ My notebooks in [Datacamp](https://www.datacamp.com/profile/ajaysrivastava-19d5f
 | `Who's Tweeting? Trump or Trudeau?` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
 | `Word Frequency in Moby Dick` | Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting! |
 
-## R
+### R
 | Project | Description |
-| --- | --- |
+| ------- | ----------- |
 | `Introduction to DataCamp Projects` | If you have never done a DataCamp project, this is the place to start! |
 | `Visualizing Covid-19 ` | Visualize the history, spread and many other things. |
 
-## SQL
+### SQL
 | Project | Description |
-| --- | --- |
+| ------- | ----------- |
 | `Analyze International Debt Statistics` | Write SQL queries to answer interesting questions about international debt using data from The World Bank. |
 | `Introduction to DataCamp Projects` | If you've never done a DataCamp project, this is the place to start! |
 | `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
